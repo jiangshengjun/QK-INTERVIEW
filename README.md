@@ -17,4 +17,4 @@
 + 数据库用Mysql并提供表结构sql
 + 用户下单是用余额下单
 + 项目代码放在project目录下
-+ 从[https://github.com/jiangshengjun/QK-INTERVIEW]（https://github.com/jiangshengjun/QK-INTERVIEW)fork代码并以提交Merge Request方式来完成答题
++ 从 https://github.com/jiangshengjun/QK-INTERVIEW fork代码并以提交Merge Request方式来完成答题
